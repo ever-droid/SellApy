@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542542861146",
+    "project_id": "sellapy-3a21a",
+    "storage_bucket": "sellapy-3a21a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542542861146:android:26adef81e67c94e39e1963",
+        "android_client_info": {
+          "package_name": "com.example.sellapy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuw8J7IR7Ta3I9IDlBIfvpTSvTrCYd85M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
